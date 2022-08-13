@@ -3,3 +3,6 @@ vless://08a85ed7-122a-4d3e-805b-85b91eb06694@br1.v2vless.xyz:443?path=%2Fvless&s
 trojan-go://fca189ce-35ee-4278-9815-c5eba62fc5ba@ukt1.sshocean.net:443?host=ukt1.sshocean.net&path=%2Fwebsocket&sni=ukt1.sshocean.net&type=ws#sshocean-zxdf_trojan-go_ws
 vless://39b1d934-dd4b-4aad-8757-32080ee85029@au1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=au1.v2vless.xyz&sni=au1.v2vless.xyz&type=ws#sshocean-ygtf
 vless://fd71e4d4-3bde-479c-b33d-d03358da9a7e@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=fr2-ws.xvless.xyz&sni=dxsea#sshocean-hgtf
+vless://0ac4deea-2c1a-41d8-8357-4a4fa0fd1c5d@ch1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ch1.v2vless.xyz&sni=ch1.v2vless.xyz&type=ws#sshocean-ewogno
+vless://d87f78ec-73db-43e6-90d4-978daa4da57f@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#sshocean-ovempuest
+vless://98ddc1fb-f130-423f-bc44-02f6900b76f5@pl1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=pl1-ws.xvless.xyz&type=ws&sni=pl1-ws.xvless.xyz#sshocean-htatsiem
