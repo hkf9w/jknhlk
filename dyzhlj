@@ -2,3 +2,8 @@ vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebso
 vless://6dc78f47-2ce3-43d4-9be4-84b92a1f79dd@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=de1.v2vless.xyz&sni=de1.v2vless.xyz&type=ws#sshocean-tygf
 vless://f69d277e-792d-45ab-bf71-787cb0f3c1f4@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#sshocean-ytwb
 vless://75ccd596-d021-4882-ae1e-caf36f82263c@au1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=au1.v2vless.xyz&sni=au1.v2vless.xyz&type=ws#sshocean-yug
+trojan-go://dce91ad5-ce61-4012-8f9f-26c6a8e17fa2@frt1.sshocean.net:443?host=frt1.sshocean.net&path=%2Fwebsocket&sni=frt1.sshocean.net&type=ws#sshocean-feth_trojan-go_ws
+trojan-go://4258dc44-3e02-465b-999d-0b5fbe64d291@fit1.sshocean.net:443?host=fit1.sshocean.net&path=%2Fwebsocket&sni=fit1.sshocean.net&type=ws#sshocean-bnghy_trojan-go_ws
+vless://7b3c20b6-c7e7-42ac-9583-b8d6a77cd0f4@de2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=de2.v2vless.xyz&sni=de2.v2vless.xyz&type=ws#sshocean-hgrfs
+vless://c79213cf-2a7f-4696-a90d-8560b41d6106@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=de1.v2vless.xyz&sni=de1.v2vless.xyz&type=ws#sshocean-cdfrg
+vless://f8c7e6af-2fc6-4bfe-9af6-c55a8c938fe2@de2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=de2-ws.xvless.xyz&type=ws&sni=de2-ws.xvless.xyz#sshocean-bngew
