@@ -1,11 +1,4 @@
-vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到6日更新
-vless://be11652d-a2ac-4dff-9547-e31276bb4477@bg1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=bg1-ws.xvless.xyz&type=ws&sni=bg1-ws.xvless.xyz#sshocean-wdg
-vless://6c7fb5ee-a0ea-4751-92c0-b9daab95a79c@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#sshocean-jdh
-vless://512218fe-bb53-48c4-9973-1e7327f27072@fr1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=fr1.v2vless.xyz&sni=fr1.v2vless.xyz&type=ws#sshocean-she
-vless://0da83f4c-0989-409b-9221-010df696a8b6@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#sshocean-zxdc
-vless://cc1ab960-df5e-4b48-af61-461ed01a0eec@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-lokm
-trojan-go://c791e9bd-103c-4ad2-a7b1-aef1a05a2ee7@cat1.sshocean.net:443?host=cat1.sshocean.net&path=%2Fwebsocket&sni=cat1.sshocean.net&type=ws#sshocean-cfvb_trojan-go_ws
-vless://a4c6f03d-db87-4afb-bfed-3b6281321d8d@au1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=au1.v2vless.xyz&sni=au1.v2vless.xyz&type=ws#sshocean-yhn
-trojan-go://ca6dd74f-9b73-4135-852b-61f1fec01867@cat1.sshocean.net:443?host=cat1.sshocean.net&path=%2Fwebsocket&sni=cat1.sshocean.net&type=ws#sshocean-fdetf_trojan-go_ws
-vless://1400fcc8-7267-457e-b463-0e996f932a67@bg1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=bg1.v2vless.xyz&sni=bg1.v2vless.xyz&type=ws#sshocean-seny
-vless://789d3059-20b4-44b9-9280-334a3cca03ef@fr1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr1-ws.xvless.xyz&type=ws&sni=fr1-ws.xvless.xyz#sshocean-drjji
+vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到11日更新
+vless://07537dc3-aaf5-4e0e-97c8-4a948e3ab31b@bg1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=bg1.v2vless.xyz&sni=bg1.v2vless.xyz&type=ws#sshocean-vbft
+vless://cbb77338-b51b-409d-be0d-f3e89aea6f83@uk1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#sshocean-cfdg
+vless://bd0c70f5-f335-4dc8-8505-f53ac40767e2@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-xdfyj
