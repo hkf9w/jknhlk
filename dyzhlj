@@ -5,3 +5,6 @@ trojan-go://3b1d0995-a97e-4e0d-a4c3-eaa56895400c@cat2.sshocean.net:443?host=cat2
 trojan-go://66c94e24-f2b3-4e67-b866-cadd539a656d@cat2.sshocean.net:443?host=cat2.sshocean.net&path=%2Fwebsocket&sni=cat2.sshocean.net&type=ws#sshocean-sdhyi_trojan-go_ws
 vless://183621d1-1fa1-423a-ad89-093939fb8a77@ca2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ca2.v2vless.xyz&sni=ca2.v2vless.xyz&type=ws#sshocean-bfgtr
 vless://5305c61b-ed1d-4133-ab39-3c988a762857@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-hhfyyurr
+trojan-go://17db18b5-77f5-4324-8c86-6d377cb8b590@aut1.sshocean.net:443?host=aut1.sshocean.net&path=%2Fwebsocket&sni=aut1.sshocean.net&type=ws#sshocean-esdr_trojan-go_ws
+vless://638337f4-ebdd-4df1-aa18-00c4bfd9c56e@ca1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ca1.v2vless.xyz&sni=ca1.v2vless.xyz&type=ws#sshocean-okl
+vless://816bbb53-6e81-4c55-ac5c-652684553f50@fr1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr1-ws.xvless.xyz&type=ws&sni=fr1-ws.xvless.xyz#sshocean-gfdt
