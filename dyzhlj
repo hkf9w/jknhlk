@@ -1,4 +1,4 @@
-vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到22日更新
+vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到27日更新
 trojan-go://418cda26-345b-4c7c-9956-1d6f9897bd64@cat2.sshocean.net:443?host=cat2.sshocean.net&path=%2Fwebsocket&sni=cat2.sshocean.net&type=ws#sshocean-hjgfcx_trojan-go_ws
 trojan-go://2a09ff99-88af-401f-bf02-91f2f584420a@fit1.sshocean.net:443?host=fit1.sshocean.net&path=%2Fwebsocket&sni=fit1.sshocean.net&type=ws#sshocean-jhvgfc_trojan-go_ws
 trojan-go://a0d6f02d-05e3-454e-9fd3-3b1db141f917@frt1.sshocean.net:443?host=frt1.sshocean.net&path=%2Fwebsocket&sni=frt1.sshocean.net&type=ws#sshocean-gvcf_trojan-go_ws
