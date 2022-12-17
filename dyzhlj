@@ -9,3 +9,7 @@ trojan-go://92135391-9e38-4f55-94dc-c6e61c4ed15a@boat.jhgkkll.ml:443?host=boat.j
 trojan-go://ad493253-0011-4eb4-9ba0-38c9c47a497c@green.jhgkkll.ml:443?host=green.jhgkkll.ml&path=%2Fad493253-0011-4eb4-9ba0-38c9c47a497c-trojan&sni=green.jhgkkll.ml&type=ws#sshocean-green_trojan-go_ws
 trojan-go://085b3116-cbf7-4c4c-8ff1-9f0738223f26@tree.jhgkkll.ml:443?host=tree.jhgkkll.ml&path=%2F085b3116-cbf7-4c4c-8ff1-9f0738223f26-trojan&sni=tree.jhgkkll.ml&type=ws#sshocean-tree_trojan-go_ws
 trojan-go://1c4143b4-ed29-42f7-bee9-d5b5824e9c24@diy.jhgkkll.ml:443?host=diy.jhgkkll.ml&path=%2F1c4143b4-ed29-42f7-bee9-d5b5824e9c24-trojan&sni=diy.jhgkkll.ml&type=ws#sshocean-diy_trojan-go_ws
+vless://60de5721-a7c6-492a-8c21-613ee06a8382@bg1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=bg1-ws.xvless.xyz&type=ws&sni=bg1-ws.xvless.xyz#sshocean-uyt
+vless://e3eabc3a-4874-4a81-85e6-be7961dac365@pl1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl1.v2vless.xyz&sni=pl1.v2vless.xyz&type=ws#sshocean-xjp
+trojan-go://c09d73a7-a46c-46b0-87b9-ec8d36f92eba@ukt2.sshocean.net:443?host=ukt2.sshocean.net&path=%2Fwebsocket&sni=ukt2.sshocean.net&type=ws#sshocean-dhr_trojan-go_ws
+vless://fc629403-25f0-4c46-bf37-c2691897cfdc@ch1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ch1.v2vless.xyz&sni=ch1.v2vless.xyz&type=ws#sshocean-bqp
