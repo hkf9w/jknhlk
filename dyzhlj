@@ -5,3 +5,13 @@ vless://aa460375-8ab0-48d1-86e6-57a0dad2c08d@bg1.v2vless.xyz:443?path=%2Fvless&s
 vless://a2fc52c6-4a1a-4791-a257-dde2303e559e@bg1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=bg1.v2vless.xyz&sni=bg1.v2vless.xyz&type=ws#sshocean-jnbg
 vless://06d6e12a-65e1-4cc5-a718-4dea7e5b813a@ca2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca2-ws.xvless.xyz&type=ws&sni=ca2-ws.xvless.xyz#sshocean-iplj
 vless://74336bd0-69d6-4da9-b126-b5a96f4ef20a@de2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=de2-ws.xvless.xyz&type=ws&sni=de2-ws.xvless.xyz#sshocean-gbft
+trojan-go://d1381544-ecbe-47d0-952b-cf07ac1c3150@cat.jhgkkll.ml:443?host=cat.jhgkkll.ml&path=%2Fd1381544-ecbe-47d0-952b-cf07ac1c3150-trojan&sni=cat.jhgkkll.ml&type=ws#sshocean-cat_trojan-go_ws
+trojan-go://d273cdc7-24f2-4626-a023-8bac34b86aee@link.jhgkkll.ml:443?host=link.jhgkkll.ml&path=%2Fd273cdc7-24f2-4626-a023-8bac34b86aee-trojan&sni=link.jhgkkll.ml&type=ws#sshocean-link_trojan-go_ws
+trojan-go://e996fce8-fcd7-4b9f-b4af-de57bef94113@tiger.jhgkkll.ml:443?host=tiger.jhgkkll.ml&path=%2Fe996fce8-fcd7-4b9f-b4af-de57bef94113-trojan&sni=tiger.jhgkkll.ml&type=ws#sshocean-tiger_trojan-go_ws
+trojan-go://38bf257e-539d-4729-8461-78c05366aeac@snake.jhgkkll.ml:443?host=snake.jhgkkll.ml&path=%2F38bf257e-539d-4729-8461-78c05366aeac-trojan&sni=snake.jhgkkll.ml&type=ws#sshocean-snake_trojan-go_ws
+trojan-go://5221a993-0d60-443e-9300-17fdade4c227@hall.jhgkkll.ml:443?host=hall.jhgkkll.ml&path=%2F5221a993-0d60-443e-9300-17fdade4c227-trojan&sni=hall.jhgkkll.ml&type=ws#sshocean-hall_trojan-go_ws
+trojan-go://3284dc2f-f4ed-42fe-b1e7-a2952f9f4776@shop.jhgkkll.ml:443?host=shop.jhgkkll.ml&path=%2F3284dc2f-f4ed-42fe-b1e7-a2952f9f4776-trojan&sni=shop.jhgkkll.ml&type=ws#sshocean-shop_trojan-go_ws
+trojan-go://92135391-9e38-4f55-94dc-c6e61c4ed15a@boat.jhgkkll.ml:443?host=boat.jhgkkll.ml&path=%2F92135391-9e38-4f55-94dc-c6e61c4ed15a-trojan&sni=boat.jhgkkll.ml&type=ws#sshocean-boat_trojan-go_ws
+trojan-go://ad493253-0011-4eb4-9ba0-38c9c47a497c@green.jhgkkll.ml:443?host=green.jhgkkll.ml&path=%2Fad493253-0011-4eb4-9ba0-38c9c47a497c-trojan&sni=green.jhgkkll.ml&type=ws#sshocean-green_trojan-go_ws
+trojan-go://085b3116-cbf7-4c4c-8ff1-9f0738223f26@tree.jhgkkll.ml:443?host=tree.jhgkkll.ml&path=%2F085b3116-cbf7-4c4c-8ff1-9f0738223f26-trojan&sni=tree.jhgkkll.ml&type=ws#sshocean-tree_trojan-go_ws
+trojan-go://1c4143b4-ed29-42f7-bee9-d5b5824e9c24@diy.jhgkkll.ml:443?host=diy.jhgkkll.ml&path=%2F1c4143b4-ed29-42f7-bee9-d5b5824e9c24-trojan&sni=diy.jhgkkll.ml&type=ws#sshocean-diy_trojan-go_ws
