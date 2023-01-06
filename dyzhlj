@@ -1,4 +1,6 @@
-vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到6日更新
-trojan-go://859e2509-4d23-4464-a8bf-5f4c3c328964@ukt3.sshocean.net:443?host=ukt3.sshocean.net&path=%2Fwebsocket&sni=ukt3.sshocean.net&type=ws#sshocean-vfder_trojan-go_ws
-trojan-go://530f1e0d-0516-4c9c-b56d-93961ba18af0@frt2.sshocean.net:443?host=frt2.sshocean.net&path=%2Fwebsocket&sni=frt2.sshocean.net&type=ws#sshocean-fdes_trojan-go_ws
-vless://165232fd-b0f6-448b-bb21-376a67228139@bg1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=bg1.v2vless.xyz&sni=bg1.v2vless.xyz&type=ws#sshocean-vdfe
+vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到11日更新
+trojan-go://9bf522ec-61eb-4956-81b7-878a2959a417@cat2.sshocean.net:443?host=cat2.sshocean.net&path=%2Fwebsocket&sni=cat2.sshocean.net&type=ws#sshocean-erff_trojan-go_ws
+trojan-go://2013ed1e-01d0-44c3-a717-c3cce50746a2@aut1.sshocean.net:443?host=aut1.sshocean.net&path=%2Fwebsocket&sni=aut1.sshocean.net&type=ws#sshocean-fhjuy_trojan-go_ws
+vless://e71a4547-4d1d-4521-9a03-9acf2bc9756e@pl1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl1.v2vless.xyz&sni=pl1.v2vless.xyz&type=ws#sshocean-wscd
+vless://4a8ab251-25f5-4ea1-9df0-48bef0357430@de2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=de2-ws.xvless.xyz&type=ws&sni=de2-ws.xvless.xyz#sshocean-fvde
+vless://b2ca52ec-2b4a-4977-b2b4-f09911588871@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-ferb
