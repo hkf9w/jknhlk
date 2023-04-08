@@ -9,6 +9,6 @@ vless://085b3116-cbf7-4c4c-8ff1-9f0738223f26@tree.jhgkkll.ml:443?path=%2F085b311
 vless://ad493253-0011-4eb4-9ba0-38c9c47a497c@green.jhgkkll.ml:443?path=%2Fad493253-0011-4eb4-9ba0-38c9c47a497c-vless&security=tls&encryption=none&host=green.jhgkkll.ml&sni=green.jhgkkll.ml&type=ws#sshocean-green
 vless://92135391-9e38-4f55-94dc-c6e61c4ed15a@boat.jhgkkll.ml:443?path=%2F92135391-9e38-4f55-94dc-c6e61c4ed15a-vless&security=tls&encryption=none&host=boat.jhgkkll.ml&sni=boat.jhgkkll.ml&type=ws#sshocean-boat
 vless://3284dc2f-f4ed-42fe-b1e7-a2952f9f4776@shop.jhgkkll.ml:443?path=%2F3284dc2f-f4ed-42fe-b1e7-a2952f9f4776-vless&security=tls&encryption=none&host=shop.jhgkkll.ml&sni=shop.jhgkkll.ml&type=ws#sshocean-shop
-vless://2589d7d0-caf8-41cb-8ad6-4a644091983e@pl1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=pl1-ws.xvless.xyz&type=ws&sni=pl1-ws.xvless.xyz#sshocean-jhgfj
-vless://145e8ceb-d44e-4eb0-9cf5-c3c37283f503@mx1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=mx1-ws.xvless.xyz&type=ws&sni=mx1-ws.xvless.xyz#sshocean-iugbjcfh
-vless://1dd63a1d-d2cf-4da7-bf02-0b13c65ea88e@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-trdfh
+vless://5303c93b-d938-4053-85d6-b984c18bf8bc@pl1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=pl1-ws.xvless.xyz&type=ws&sni=pl1-ws.xvless.xyz#sshocean-trgbrr
+vless://3d4d8b26-8592-4589-a558-b4d632e6b653@mx1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=mx1-ws.xvless.xyz&type=ws&sni=mx1-ws.xvless.xyz#sshocean-jklhij
+vless://477c1bb0-d638-44da-bed5-0a234bf7113d@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-hjygk
