@@ -1,4 +1,4 @@
-vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到12日更新
+vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到25日更新
 vless://2694f273-47db-4459-95ed-0f005e108284@au3.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=au3.v2vless.xyz&sni=au3.v2vless.xyz&type=ws#sshocean-fghybbkun
 vless://d1381544-ecbe-47d0-952b-cf07ac1c3150@cat.jhgkkll.ml:443?path=%2Fd1381544-ecbe-47d0-952b-cf07ac1c3150-vless&security=tls&encryption=none&host=cat.jhgkkll.ml&sni=cat.jhgkkll.ml&type=ws#sshocean-cat
 vless://d273cdc7-24f2-4626-a023-8bac34b86aee@link.jhgkkll.ml:443?path=%2Fd273cdc7-24f2-4626-a023-8bac34b86aee-vless&security=tls&encryption=none&host=link.jhgkkll.ml&sni=link.jhgkkll.ml&type=ws#sshocean-link
@@ -10,3 +10,8 @@ vless://085b3116-cbf7-4c4c-8ff1-9f0738223f26@tree.jhgkkll.ml:443?path=%2F085b311
 vless://ad493253-0011-4eb4-9ba0-38c9c47a497c@green.jhgkkll.ml:443?path=%2Fad493253-0011-4eb4-9ba0-38c9c47a497c-vless&security=tls&encryption=none&host=green.jhgkkll.ml&sni=green.jhgkkll.ml&type=ws#sshocean-green
 vless://92135391-9e38-4f55-94dc-c6e61c4ed15a@boat.jhgkkll.ml:443?path=%2F92135391-9e38-4f55-94dc-c6e61c4ed15a-vless&security=tls&encryption=none&host=boat.jhgkkll.ml&sni=boat.jhgkkll.ml&type=ws#sshocean-boat
 vless://3284dc2f-f4ed-42fe-b1e7-a2952f9f4776@shop.jhgkkll.ml:443?path=%2F3284dc2f-f4ed-42fe-b1e7-a2952f9f4776-vless&security=tls&encryption=none&host=shop.jhgkkll.ml&sni=shop.jhgkkll.ml&type=ws#sshocean-shop
+vless://85f843bd-6ddc-47f0-8a51-8c0b348da877@fr1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=fr1.v2vless.xyz&sni=fr1.v2vless.xyz&type=ws#sshocean-gyth
+vless://9e8c08b8-ed85-46e3-a877-d23f4f368d7e@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#sshocean-okh
+vless://308ca17d-4e1c-476c-b584-ca6bbf10fea8@pl2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl2.v2vless.xyz&sni=pl2.v2vless.xyz&type=ws#sshocean-rdf
+vless://e3e0e38e-41a5-4543-901a-b3d017d0f374@au1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=au1-ws.xvless.xyz&type=ws&sni=au1-ws.xvless.xyz#sshocean-look
+
