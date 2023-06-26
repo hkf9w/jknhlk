@@ -1,6 +1,5 @@
 vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到01日更新
 vless://557890cf-db02-4270-9858-f421a902ee13@pl3.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl3.v2vless.xyz&sni=pl3.v2vless.xyzlkfgdrthg&type=ws#sshocean-lkjhh
-vless://557890cf-db02-4270-9858-f421a902ee13@pl3.v2vless.xyz:80?path=%2Fvless&encryption=none&host=pl3.v2vless.xyz&sni=pl3.v2vless.xyzlkfgdrthg&type=ws#sshocean-lkjhh
 vless://1ba9dbcc-e8a7-45e0-9bf1-86623723e5ec@pl1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl1.v2vless.xyz&sni=pl1.v2vless.xyzfcghjcgvtyuvik&type=ws#sshocean-uihjnkkgh
 vless://c4ccfe09-a4c5-47fd-a339-c8c270cdc754@pl2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl2.v2vless.xyz&sni=pl2.v2vless.xyzdghliiibg&type=ws#sshocean-ufgrd
 vless://d1381544-ecbe-47d0-952b-cf07ac1c3150@cat.jhgkkll.ml:443?path=%2Fd1381544-ecbe-47d0-952b-cf07ac1c3150-vless&security=tls&encryption=none&host=cat.jhgkkll.ml&sni=cat.jhgkkll.ml&type=ws#sshocean-cat
