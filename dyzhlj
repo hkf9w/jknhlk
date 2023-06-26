@@ -1,4 +1,6 @@
 vless://4399cf7a-a5f0-4536-8891-ec89a48ad934@ca1-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=ca1-ws.xvless.xyz&type=ws&sni=ca1-ws.xvless.xyz#到01日更新
+vless://949b5e4e-7579-44be-aa68-0a82dddf1aa3@md1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=md1.v2vless.xyz&sni=md1.v2vless.xyzckgjvgggft&type=ws#sshocean-bhddveri
+vless://f8d4b634-f094-4643-89a0-dbc0a125436e@md2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=md2.v2vless.xyz&sni=md2.v2vless.xyzasdfghkuyt&type=ws#sshocean-qazfgn
 vless://d5881d5d-152d-4a49-8526-6a294fd675f4@ca2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ca2.v2vless.xyz&sni=ca2.v2vless.xyzdewxdgh&type=ws#sshocean-jhuji
 vless://d5881d5d-152d-4a49-8526-6a294fd675f4@ca2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ca2.v2vless.xyz&sni=ca2.v2vless.xyzca2.v2vless.xyzdewxdgh&type=ws#sshocean-jhuji
 vless://557890cf-db02-4270-9858-f421a902ee13@pl3.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl3.v2vless.xyz&sni=pl3.v2vless.xyzlkfgdrthg&type=ws#sshocean-lkjhh
